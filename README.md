@@ -10,3 +10,5 @@ This project is a web application that predicts the **sentiment** (Positive or N
 - Word embedding + sequence preprocessing
 - Interactive web interface using Streamlit
 - Real-time sentiment prediction for custom text inputs
+
+APP URL : https://2-simple-rnn-imdb-review-sentiment-analysis.streamlit.app/
